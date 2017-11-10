@@ -1,0 +1,9 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\bin\Debug\MarshallsRevenueGUI.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.Properties.Resources.resources
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.csproj.GenerateResource.Cache
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenueGUI\MarshallsRevenueGUI\obj\Debug\MarshallsRevenueGUI.MarshallsRevenueGUI.resources

@@ -1,0 +1,6 @@
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenue\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe.config
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenue\MarshallsRevenue\bin\Debug\MarshallsRevenue.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenue\MarshallsRevenue\bin\Debug\MarshallsRevenue.pdb
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.csprojResolveAssemblyReference.cache
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.exe
+c:\users\mochibot\documents\visual studio 2017\Projects\MarshallsRevenue\MarshallsRevenue\obj\Debug\MarshallsRevenue.pdb
